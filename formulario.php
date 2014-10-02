@@ -19,8 +19,8 @@ if(is_numeric($_GET["num"]) && $_GET["num"] > 0){
 	for ($x=0;$x<$num;$x++) {
 		echo "<tr>
 
-	    <td>Jill</td>
-	    <td>Smith</td>
+	    <td>Josu</td>
+	    <td>Apaolaza</td>
 	  	</tr>";
 	}
 	?>
