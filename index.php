@@ -8,6 +8,11 @@
         Name: <input type="text" name="num"><br>
         <input type="submit">
     </form>
+    
+    <form action="formulario.php" method="get">
+        Name: <input type="text" name="num"><br>
+        <input type="submit">
+    </form>
    
 
 </body>
